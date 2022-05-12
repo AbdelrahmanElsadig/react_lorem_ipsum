@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_lorem_ipsum/static/css/main.319763c0.css",
+    "main.js": "/react_lorem_ipsum/static/js/main.61b8de44.js",
+    "index.html": "/react_lorem_ipsum/index.html",
+    "main.319763c0.css.map": "/react_lorem_ipsum/static/css/main.319763c0.css.map",
+    "main.61b8de44.js.map": "/react_lorem_ipsum/static/js/main.61b8de44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.319763c0.css",
+    "static/js/main.61b8de44.js"
+  ]
+}
